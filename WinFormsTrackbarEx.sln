@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsTrackbarEx", "WinFormsTrackbarEx\WinFormsTrackbarEx.csproj", "{09CDEF1F-CD28-436D-9739-1D1D3B027D30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CDEF1F-CD28-436D-9739-1D1D3B027D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CDEF1F-CD28-436D-9739-1D1D3B027D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CDEF1F-CD28-436D-9739-1D1D3B027D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CDEF1F-CD28-436D-9739-1D1D3B027D30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E7FC480-375C-49D3-A08A-FCF267A3ADF7}
+	EndGlobalSection
+EndGlobal
